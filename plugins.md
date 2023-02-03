@@ -1,0 +1,1 @@
+https://github.com/MR-XieXuan/MiraiTravel-plugin-groupManager
